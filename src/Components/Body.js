@@ -13,9 +13,8 @@ const Body = () => {
             </div>
 
             <div class="col-lg-6">
-            <p className=''>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus alias voluptatum neque enim, aperiam minus! Ea ex, reiciendis sapiente sint debitis repudiandae perferendis possimus esse nesciunt, soluta libero accusantium. Inventore?
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt cupiditate sequi quidem illo porro, ducimus fugiat magnam dolorum iusto ut sapiente, voluptatem cum consequuntur autem. Dolorem sit nostrum sint hic!
-            </p>
+              <p className=''>I am an ICT graduate with experience in both front end and backend software development. My passion for software development s driven by the urge to create solutions to our day to day problems.
+              Also, I take pride in helping customers turn their ideas into reality.</p>
             </div>
             </div>
               
